@@ -1,4 +1,4 @@
-# Student Depression Analysis 
+# Students Depression Analysis 
 This project explores how academic pressure, financial stress, CGPA, sleep, and other lifestyle factors relate to self-reported depression among ~27,900 Indian university students, with machine learning models built to predict depression risk and identify its strongest predictors.
  
 ## Tools
